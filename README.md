@@ -5,7 +5,7 @@ implement your singleton pattern with traits (keep yourself DRY)
 ```
 use TraitsSingleton;
 ```
-to body of another calss to transform this class to valied singleton in=mplementation
+to body of another calss to transform this class to valied singleton inmplementation
 
 
 > PROS
