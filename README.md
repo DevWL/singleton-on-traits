@@ -20,4 +20,4 @@ to body of another calss to transform this class to valied singleton in=mplement
 
 - extending another class from class that implements traits will not allow you to get modyfied instance of parent class.
 - you can only create one instance of a class
-- you can not extend from another class that implements traits and modyfie returned instance
+- you can not extend from another class that implements traits to create new instance for that class. It will overwrite the old one. For that reason instance is set to private so that it throws exception "private property access"
