@@ -11,10 +11,10 @@ to body of another calss to transform this class to valied singleton in=mplement
 > PROS
 
 - you don't have to retype singleton structure
-- fase and easy implementation
+- fast and easy implementation
 - slightly more flexybility
 - you can implement more than one traits in a class
-- you can overwrite traits methods if you like
+- you can overload traits methods
 
 > CONS
 
